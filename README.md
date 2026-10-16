@@ -1,4 +1,4 @@
-# Meu Portefólio Profissional 🚀
+# Meu Portfólio Profissional 🚀
 
 Bem-vindo ao repositório do meu site de portfólio! 
 
