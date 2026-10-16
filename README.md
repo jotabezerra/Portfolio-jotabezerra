@@ -9,5 +9,5 @@ Este projeto foi criado para apresentar a minha trajetória como estudante de An
 * CSS3
 
 ## 🔗 Links
-* [Site do Portefólio](https://jotabezerra.github.io/Portfolio-jotabezerra/Portfolio_JP/)
+* [Site do Portefólio](https://jotabezerra.github.io/Portfolio-jotabezerra/)
 * [Perfil no LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-da-silva-bezerra-14562a376/)
