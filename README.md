@@ -1,13 +1,28 @@
-# Meu Portfólio Profissional 🚀
+# Portfólio | João Pedro Bezerra
 
-Bem-vindo ao repositório do meu site de portfólio! 
+Portfólio pessoal estático feito com HTML e CSS.
 
-Este projeto foi criado para apresentar a minha trajetória como estudante de Análise e Desenvolvimento de Sistemas (ADS) na FIAP, os meus projetos práticos e os meus conhecimentos na área de Tecnologia, com um foco especial em Banco de Dados e SQL.
+## Acesse o site
 
-## 🛠️ Tecnologias Utilizadas no Site
-* HTML5
-* CSS3
+[jotabezerra.com.br](https://jotabezerra.com.br)
 
-## 🔗 Links
-* [Site do Portefólio](https://jotabezerra.github.io/Portfolio-jotabezerra/)
-* [Perfil no LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-da-silva-bezerra-14562a376/)
+## Estrutura
+
+```text
+.
+├── index.html
+├── assets/
+│   ├── github-avatar.png
+│   └── certificates/
+│       ├── banco-de-dados-sql-udemy.png
+│       ├── honra-ao-merito.jpg
+│       ├── sqlite-alura.jpg
+│       └── tecnico-servicos-juridicos.jpg
+├── css/
+│   └── styles.css
+└── README.md
+```
+
+## Executar localmente
+
+Baixe os arquivos deste repositório e abra `index.html` no navegador. Não é necessário instalar dependências nem executar um servidor.
